@@ -1,5 +1,5 @@
 # reveapp
-cloudreve客户端
+cloudreve客户端(半成品)
 
 对接后台在项目lib目录下的main.dart修改为自己的域名
 
