@@ -6,3 +6,5 @@ cloudreve客户端
 下载体验https://www.123pan.com/s/iGfEjv-1wRPA.html
 
 交流社区(http://apk.zegei.cc/)
+
+二开请保留版权
