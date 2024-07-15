@@ -3,3 +3,6 @@ cloudreve客户端
 
 对接后台在项目lib目录下的main.dart修改为自己的域名
 
+下载体验https://www.123pan.com/s/iGfEjv-1wRPA.html
+
+交流社区https://h5.zegei.cc/#/
